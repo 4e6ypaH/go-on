@@ -54,3 +54,7 @@ body {
   position: absolute;
   bottom: 0px;
 }
+
+label, input, textarea {
+  margin: 10px 0;
+}
